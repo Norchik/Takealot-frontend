@@ -1,0 +1,292 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "name": "Wireless Bluetooth Headphones",
+      "price": "89.99",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+      "stock": "250",
+      "description": "Premium noise-canceling wireless headphones with 30-hour battery life"
+    },
+    {
+      "id": "002",
+      "name": "Cotton Canvas Tote Bag",
+      "price": "24.95",
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+      "stock": "500",
+      "description": "Eco-friendly cotton canvas tote bag perfect for shopping or daily use"
+    },
+    {
+      "id": "003",
+      "name": "Stainless Steel Water Bottle",
+      "price": "32.50",
+      "category": "drinkware",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=400&fit=crop",
+      "stock": "300",
+      "description": "Insulated stainless steel water bottle keeps drinks cold for 24 hours"
+    },
+    {
+      "id": "005",
+      "name": "LED Desk Lamp",
+      "price": "45.00",
+      "category": "lighting",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "stock": "150",
+      "description": "Adjustable LED desk lamp with touch controls and USB charging port"
+    },
+    {
+      "id": "010",
+      "name": "Kitchen Knife Set",
+      "price": "79.99",
+      "category": "kitchenware",
+      "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=400&h=400&fit=crop",
+      "stock": "90",
+      "description": "Professional 8-piece kitchen knife set with wooden block"
+    },
+    {
+      "id": "011",
+      "name": "Smartphone Case",
+      "price": "15.99",
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=400&h=400&fit=crop",
+      "stock": "800",
+      "description": "Protective smartphone case with shock-absorbing corners"
+    },
+    {
+      "id": "012",
+      "name": "Board Game Collection",
+      "price": "49.99",
+      "category": "games",
+      "image": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=400&fit=crop",
+      "stock": "75",
+      "description": "Classic board game collection for family entertainment"
+    },
+    {
+      "id": "014",
+      "name": "Baseball Cap",
+      "price": "18.99",
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=400&h=400&fit=crop",
+      "stock": "600",
+      "description": "Adjustable baseball cap with embroidered logo"
+    },
+    {
+      "id": "015",
+      "name": "Bluetooth Speaker",
+      "price": "59.99",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop",
+      "stock": "220",
+      "description": "Portable waterproof Bluetooth speaker with 360-degree sound"
+    },
+    {
+      "id": "016",
+      "name": "Cookbook",
+      "price": "26.95",
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop",
+      "stock": "140",
+      "description": "Comprehensive cookbook with 500 easy-to-follow recipes"
+    },
+    {
+      "id": "017",
+      "name": "Garden Tools Set",
+      "price": "42.99",
+      "category": "garden",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=400&fit=crop",
+      "stock": "85",
+      "description": "Essential garden tools set with ergonomic handles"
+    },
+    {
+      "id": "018",
+      "name": "Wall Clock",
+      "price": "35.00",
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=400&h=400&fit=crop",
+      "stock": "160",
+      "description": "Modern minimalist wall clock with silent movement"
+    },
+    {
+      "id": "019",
+      "name": "Sunglasses",
+      "price": "55.99",
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&h=400&fit=crop",
+      "stock": "280",
+      "description": "UV protection sunglasses with polarized lenses"
+    },
+    {
+      "id": "020",
+      "name": "Backpack",
+      "price": "67.50",
+      "category": "bags",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+      "stock": "195",
+      "description": "Durable hiking backpack with multiple compartments"
+    },
+    {
+      "id": "021",
+      "name": "Phone Charger",
+      "price": "12.99",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=400&h=400&fit=crop",
+      "stock": "750",
+      "description": "Fast-charging USB cable with braided design"
+    },
+    {
+      "id": "022",
+      "name": "Throw Pillow",
+      "price": "16.99",
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "stock": "450",
+      "description": "Decorative throw pillow with removable cover"
+    },
+    {
+      "id": "024",
+      "name": "Art Supplies Kit",
+      "price": "38.99",
+      "category": "art",
+      "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400&h=400&fit=crop",
+      "stock": "110",
+      "description": "Complete art supplies kit for drawing and painting"
+    },
+    {
+      "id": "026",
+      "name": "Desk Organizer",
+      "price": "29.99",
+      "category": "office",
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400&h=400&fit=crop",
+      "stock": "200",
+      "description": "Bamboo desk organizer with multiple compartments"
+    },
+    {
+      "id": "027",
+      "name": "Bath Towel Set",
+      "price": "44.95",
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1504198458649-3128b932f49e?w=400&h=400&fit=crop",
+      "stock": "150",
+      "description": "Luxury cotton bath towel set of 4 pieces"
+    },
+    {
+      "id": "028",
+      "name": "Wireless Mouse",
+      "price": "27.99",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400&h=400&fit=crop",
+      "stock": "340",
+      "description": "Ergonomic wireless mouse with precision tracking"
+    },
+    {
+      "id": "029",
+      "name": "Indoor Plant Pot",
+      "price": "14.50",
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=400&h=400&fit=crop",
+      "stock": "420",
+      "description": "Ceramic plant pot with drainage tray"
+    },
+    {
+      "id": "030",
+      "name": "Fitness Tracker",
+      "price": "89.00",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400&h=400&fit=crop",
+      "stock": "130",
+      "description": "Waterproof fitness tracker with heart rate monitor"
+    },
+    {
+      "id": "031",
+      "name": "Desk Calendar",
+      "price": "11.99",
+      "category": "office",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+      "stock": "520",
+      "description": "Monthly desk calendar with inspirational quotes"
+    },
+    {
+      "id": "033",
+      "name": "Essential Oils Set",
+      "price": "33.99",
+      "category": "wellness",
+      "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=400&h=400&fit=crop",
+      "stock": "175",
+      "description": "Aromatherapy essential oils starter set of 6 bottles"
+    },
+    {
+      "id": "035",
+      "name": "Wireless Keyboard",
+      "price": "54.99",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=400&fit=crop",
+      "stock": "165",
+      "description": "Compact wireless keyboard with backlit keys"
+    },
+    {
+      "id": "036",
+      "name": "Face Mask Set",
+      "price": "25.00",
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h=400&fit=crop",
+      "stock": "310",
+      "description": "Hydrating face mask set for all skin types"
+    },
+    {
+      "id": "037",
+      "name": "Car Phone Mount",
+      "price": "17.99",
+      "category": "automotive",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+      "stock": "380",
+      "description": "Magnetic car phone mount for dashboard or windshield"
+    },
+    {
+      "id": "038",
+      "name": "Reading Glasses",
+      "price": "23.50",
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=400&h=400&fit=crop",
+      "stock": "220",
+      "description": "Stylish reading glasses with blue light filtering"
+    },
+    {
+      "id": "040",
+      "name": "Hair Dryer",
+      "price": "69.99",
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=400&h=400&fit=crop",
+      "stock": "95",
+      "description": "Professional ionic hair dryer with multiple heat settings"
+    },
+    {
+      "id": "041",
+      "name": "Notebook Set",
+      "price": "15.99",
+      "category": "office",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop",
+      "stock": "600",
+      "description": "Set of 3 lined notebooks with elastic band closures"
+    },
+    {
+      "id": "042",
+      "name": "Resistance Bands",
+      "price": "18.95",
+      "category": "fitness",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
+      "stock": "275",
+      "description": "Set of 5 resistance bands with different tension levels"
+    },
+    {
+      "id": "043",
+      "name": "Picture Frame",
+      "price": "13.50",
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop",
+      "stock": "410",
+      "description": "Wooden picture frame for 8x10 photos"
+    }
+  ]
+}
