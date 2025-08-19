@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { MdDelete } from "react-icons/md";
 import { RxCaretDown } from "react-icons/rx";
 import { FaHeart } from "react-icons/fa";
-import takemore from '../images/TakealotMore.webp'
+import takemore from '../images/take.png'
 import { FaShoppingBag } from "react-icons/fa";
 import { IoMdCard } from "react-icons/io";
 import { FaTruck } from "react-icons/fa6";
